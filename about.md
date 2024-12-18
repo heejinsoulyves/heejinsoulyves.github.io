@@ -7,7 +7,7 @@ permalink: /about/
 # about
 
 [Bluesky](https://bsky.app/profile/heejinsoulyves.com)  
-[Mastodon](https://kpop.social/@heejinsoulyves)
+[Mastodon](https://kpop.social/@heejinsoulyves)  
 [YouTube](https://www.youtube.com/@heejinsoulyves)  
 [Twitter](https://x.com/gg_pics_)  
 [Threads](https://www.threads.net/@heejinsoulyves)  
