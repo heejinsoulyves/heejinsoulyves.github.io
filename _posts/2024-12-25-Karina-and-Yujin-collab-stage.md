@@ -8,6 +8,4 @@ date: 2024-12-25
 
 Important: this collab. The best thing to happen in 2024 happened today.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/watch?v=MmONqKigHEs" frameborder="0" allowfullscreen></iframe>
-</div>
+<div class="video-container"> <iframe width="560" height="315" src="https://www.youtube.com/watch?v=MmONqKigHEs" frameborder="0" allowfullscreen></iframe> </div>
