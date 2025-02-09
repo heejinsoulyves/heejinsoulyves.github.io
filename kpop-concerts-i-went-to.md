@@ -6,6 +6,10 @@ permalink: /kpop-concerts-i-went-to/
 
 # kpop concerts I went to
 
+### 2025
+
+Purple Kiss in Atlanta 250208
+
 ### 2024
 
 ARTMS in Atlanta 240819  
