@@ -4,8 +4,6 @@ title: "Andor s2, TLOU s2, Resident Playbook, MBA apps, book club"
 date: 2025-06-04
 ---
 
-# Andor s2, TLOU s2, Resident Playbook, MBA apps, book club
-
 (Yes, part of the reason I'm writing this post is to reacquaint myself with Jekyll and Markdown, since it's been a few months.) Here's a life update in rapid-fire thoughts:
 
 1. Andor s2! I loved it. Highly recommend [this interview with Syril Karn actor Kyle Soller](https://www.tvguide.com/news/andor-kyle-soller-syril-karn-season-2-episode-8-interview/) where he talks about how he read about Germans around the time of World War II:
