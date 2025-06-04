@@ -26,4 +26,4 @@ I'm also reading [Sex and Vanity by Kevin Kwan](https://www.goodreads.com/book/s
 
 **Rewatching.** I feel like I want to rewatch Neon Genesis Evangelion and Nevertheless.
 
-Let me know what you're up to lately and thinking about lately!
+Let me know what you're up to and thinking about lately!
