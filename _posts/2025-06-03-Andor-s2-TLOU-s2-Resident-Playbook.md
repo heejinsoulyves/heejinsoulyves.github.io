@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Andor s2, TLOU s2, Resident Playbook, MBA apps, book club"
-date: 2025-06-04
+date: 2025-06-03
 ---
 
 (Yes, part of the reason I'm writing this post is to reacquaint myself with Jekyll and Markdown, since it's been a few months.) Here's a life update in rapid-fire thoughts:
