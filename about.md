@@ -6,7 +6,7 @@ permalink: /about/
 
 # about
 
-I use Bluesky the most! Follow me there and say hi.
+I use Bluesky the most! Follow me there and say hi!
 
 [Bluesky](https://bsky.app/profile/heejinsoulyves.com)  
 [Mastodon](https://kpop.social/@heejinsoulyves)  
