@@ -6,7 +6,7 @@ date: 2025-06-03
 
 (Yes, part of the reason I'm writing this post is to reacquaint myself with Jekyll and Markdown, since it's been a few months.) Here's a life update in rapid-fire thoughts:
 
-**Andor s2!** I loved it. Highly recommend [this interview with Syril Karn actor Kyle Soller](https://www.tvguide.com/news/andor-kyle-soller-syril-karn-season-2-episode-8-interview/) where he talks about how he read about Germans around the time of World War II:
+**Andor s2!** I loved it. Highly recommend [this interview with Syril Karn actor Kyle Soller](https://www.tvguide.com/news/andor-kyle-soller-syril-karn-season-2-episode-8-interview/) where he describes reading about civilians in Nazi Germany:
 
 > "It's just countless stories of people who, by all accounts, were just quite liberal, free-thinking people, and gradually those morals were eroded, until they were informing on their friends and turning people in because they believed it was the right thing to do."
 
