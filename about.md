@@ -17,4 +17,4 @@ I use Bluesky the most! Follow me there and say hi.
 [Instagram](https://www.instagram.com/heejinsoulyves/)  
 [TikTok](https://www.tiktok.com/@heejinsoulyves)  
 
-This blog runs on a fork of Jekyll called [Jekyll Now](https://github.com/barryclark/jekyll-now)
+This blog runs on a fork of Jekyll called [Jekyll Now](https://github.com/barryclark/jekyll-now).
