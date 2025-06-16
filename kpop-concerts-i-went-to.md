@@ -8,7 +8,8 @@ permalink: /kpop-concerts-i-went-to/
 
 ### 2025
 
-Purple Kiss in Atlanta 250208
+Bibi in Atlanta 250615  
+Purple Kiss in Atlanta 250208  
 
 ### 2024
 
