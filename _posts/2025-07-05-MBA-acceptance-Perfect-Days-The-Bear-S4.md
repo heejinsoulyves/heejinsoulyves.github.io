@@ -13,7 +13,7 @@ One of the things I'm nervous about is I hope my classmates are nice and accepti
 
 Last night I watched a perfect movie: Perfect Days, the Japanese movie that won a bunch of awards in 2023 and 2024, including Best Actor at Cannes in 2023, and was nominated for Best International Film at the Oscars.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=QzZBbX5A1FA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QzZBbX5A1FA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Maybe I'll write more detailed thoughts later, but: One of the main takeaways is how contentment and observation are linked. The way Hirayama is constantly observing people and nature around him is really profound in our hyper content-driven, smartphone-first daily life. I realized several hours after the movie that Hirayama doesn't own a TV or computer at home.
 
