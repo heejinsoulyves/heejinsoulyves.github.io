@@ -8,6 +8,7 @@ permalink: /kpop-concerts-i-went-to/
 
 ### 2025
 
+UAU in Atlanta 250801  
 Bibi in Atlanta 250615  
 Purple Kiss in Atlanta 250208  
 
