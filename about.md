@@ -9,6 +9,7 @@ permalink: /about/
 I use Bluesky the most! Follow me there and say hi!
 
 [Bluesky](https://bsky.app/profile/heejinsoulyves.bsky.social)  
+[backup Bluesky](https://bsky.app/profile/yvesheejinsoul.bsky.social)  
 [Mastodon](https://kpop.social/@heejinsoulyves)  
 [YouTube](https://www.youtube.com/@heejinsoulyves)  
 [Twitter](https://x.com/heejinsoulyves)  
