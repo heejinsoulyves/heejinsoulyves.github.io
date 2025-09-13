@@ -4,7 +4,7 @@ title: "moved Bluesky PDS, ordered Framework laptop, rewatching The Hunger Games
 date: 2025-09-13
 ---
 
-I moved my main Bluesky account to [Kat](https://bsky.app/profile/katproto.girlonthemoon.xyz)'s server! I'm happy to be free from Bluesky's terrible moderation, although yes, Bluesky can still moderate the appview. But at least they can't actually suspend my account or delete my posts. Btw I highly recommend [zeppelin.social](https://zeppelin.social/) and [deer.social](https://deer.social/) as front-ends instead of the default Bluesky site.  
+I moved my [main Bluesky account](https://bsky.app/profile/heejinsoulyves.com) to [Kat](https://bsky.app/profile/katproto.girlonthemoon.xyz)'s server! Thank you, Kat!! I'm happy to be free from Bluesky's terrible moderation, although yes, Bluesky can still moderate the appview. But at least they can't actually suspend my account or delete my posts. Btw I highly recommend [zeppelin.social](https://zeppelin.social/) and [deer.social](https://deer.social/) as front-ends instead of the default Bluesky site.  
 
 I ordered the [Framework Laptop 12](https://bsky.app/profile/heejinsoulyves.bsky.social/post/3lyhfei77rs24) in Bubblegum colorway! It doesn't arrive until October, but I'm so excited. I also installed Linux Mint on one of my older laptops to get more familiar with Linux, since I'll be installing a Linux distro on my Framework laptop. I've only used Ubuntu before and not a whole lot.  
 
