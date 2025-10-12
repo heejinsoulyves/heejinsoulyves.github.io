@@ -22,6 +22,10 @@ Phiewer is a full-screen photo viewer that has a better full-screen view than Pr
 
 Keeps your Mac from going to sleep. It's easier than changing your system settings. Really useful for long downloads, like torrents.
 
+### [Quick View Calendar](https://quickviewcalendar.com/)
+
+A calendar that lives in your menu bar.
+
 ### [Transmission](https://transmissionbt.com/)
 
 A BitTorrent client that works well.
