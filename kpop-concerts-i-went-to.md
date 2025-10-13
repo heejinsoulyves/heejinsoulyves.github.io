@@ -8,6 +8,7 @@ permalink: /kpop-concerts-i-went-to/
 
 ### 2025
 
+STAYC in Atlanta 251012  
 Babymonster in Atlanta 250905  
 VIVIZ in Atlanta 250903  
 UAU in Atlanta 250801  
