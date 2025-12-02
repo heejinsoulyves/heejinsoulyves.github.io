@@ -12,11 +12,11 @@ I've now been to three Atlanta Hawks games and I'm going to a fourth one in Janu
 
 In November I saw QWER and ARTMS and both were amazing. Magenta from QWER really is that gorgeous, and she is more winsome and charismatic than you can imagine. Jinsoul is so beautiful and playful, and it feels really special seeing her enjoying performing. You can tell she really enjoys being on stage and being the focus of an audience's attention. Also, we gotta talk about how beautiful Haseul is in person!
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/DQlJCq5DDo5/" data-instgrm-version="14" style=" /* lots of style code */ ">
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/DQlJCq5DDo5/" data-instgrm-version="14" style=" /* lots of style code */ ">
     </blockquote>
 <script async src="//www.instagram.com/embed.js"></script>
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/DRQ9v3LjN7c/" data-instgrm-version="14" style=" /* lots of style code */ ">
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/DRQ9v3LjN7c/" data-instgrm-version="14" style=" /* lots of style code */ ">
     </blockquote>
 <script async src="//www.instagram.com/embed.js"></script>
 
