@@ -6,6 +6,10 @@ permalink: /kpop-concerts-i-went-to/
 
 # kpop concerts I went to
 
+### 2026
+
+TWICE in Atlanta 260227   
+
 ### 2025
 
 ARTMS in Atlanta 251119  
