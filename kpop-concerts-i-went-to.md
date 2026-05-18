@@ -8,6 +8,7 @@ permalink: /kpop-concerts-i-went-to/
 
 ### 2026
 
+Yves in Atlanta 260517  
 BTS in Tampa 260425  
 TWICE in Atlanta 260227   
 
