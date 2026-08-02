@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+<head>
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+
+  <!-- Status.cafe Feed Container -->
+  <h1>Microblog</h1>
+  <div id="statuscafe-feed"></div>
+
+  <script>
+    const feedURL = "https://status.cafe/users/heejinsoulyves.atom";
+
+    fetch(feedURL)
+      .then(response => response.text())
+      .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+      .then(data => {
+        const entries = data.querySelectorAll("entry");
+        let html = "";
+
+        entries.forEach(el => {
+          const content = el.querySelector("content").textContent.trim();
+          const date = el.querySelector("published").textContent.slice(0, 10);
+
+          html += `
+            <div class="status-post">
+              <p><strong>${date}</strong></p>
+              <p>${content}</p>
+            </div>
+            <hr/>
+          `;
+        });
+
+        document.getElementById("statuscafe-feed").innerHTML = html;
+      });
+  </script>
+
+  <!-- Your Jekyll Blog Posts -->
+  <h1>Blog Posts</h1>
+  <div class="posts">
+    {% for post in site.posts %}
+      <article class="post">
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+        <div class="entry">
+          {{ post.content }}
+        </div>
+
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </article>
+    {% endfor %}
+  </div>
+
+</body>
